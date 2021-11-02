@@ -1,0 +1,4 @@
+<apex:page showHeader="false" standardStylesheets="false">
+    <h3>Флов для Андрійка</h3>
+    <apex:image url="https://assets.website-files.com/60aaa9a08f7c983ec81ae002/60ac5b4452ddbb00b08b2cac_Screen_Shot_2020-08-14_at_10.40.54_AM.png"/>
+</apex:page>
